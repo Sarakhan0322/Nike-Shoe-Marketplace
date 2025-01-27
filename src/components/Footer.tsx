@@ -66,7 +66,7 @@ function Footer() {
       {/* Bottom Section */}
       <div className="flex flex-col lg:flex-row justify-between border-t border-gray-700 py-4 px-6 lg:px-20">
         <p className="text-[#cac2c2] opacity-90 text-base mt-2">
-          Mohib Ali Khan | 2024 All rights reserved
+             SARA KHAN | 2024 All rights reserved
         </p>
         <div className='flex flex-col lg:flex-row justify-end gap-4 mt-2 text-[#cac2c2] opacity-90'>
           <Link className="text-base lg:text-sm" href={''}>Guides</Link>
