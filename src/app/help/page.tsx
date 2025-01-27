@@ -19,13 +19,13 @@ const Help = () => {
         <li>Visa Electron</li>
       </ul>
       <p className="text-gray-600 mb-4">
-        If you enter your PAN information at checkout, you will be able to pay for your
+        If you enter your PAN information at checkout, you be able to pay for your
         order with PayTM or a local credit or debit card.
       </p>
       <p className="text-gray-600 mb-4">Apple Pay</p>
       <p className="text-gray-600 mb-4">
         Nike Members can store multiple debit or credit cards in their profile for
-        faster checkout. If you are not already a Member, join us today.
+        faster checkout. If you not already a Member, join us today.
       </p>
       <div className="flex flex-col md:flex-row justify-start mb-8">
         <button className="bg-black hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mb-4 md:mb-0 md:mr-4">
@@ -53,8 +53,9 @@ const Help = () => {
         <p className="text-gray-600">You can use any accepted credit card to pay for your SNKRS order.</p>
       </div>
       <div className="border rounded p-4 mb-4">
-        <h4 className="font-semibold text-black">5. Why do not I see Apple Pay as an option?</h4>
-        <p className="text-gray-600">To see Apple Pay as an option in the Nike App or on Nike.com  you will need to use a compatible Apple device running the latest OS, be signed in to your iCloud account and have a supported card in your Wallet. Additionally, you will need to use Safari to use Apple Pay on Nike.com.</p>
+        <h4 className="font-semibold text-black">5. Why don I see Apple Pay as an option?</h4>
+        <p className="text-gray-600">To see Apple Pay as an option in the Nike App or on Nike.com,
+             you will need to use a compatible Apple device running the latest OS, be signed in to your iCloud account and have a supported card in your Wallet. Additionally, you will need to use Safari to use Apple Pay on Nike.com.</p>
       </div>
     </div>
   );
